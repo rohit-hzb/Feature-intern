@@ -23,7 +23,6 @@ function App() {
       <Skills />
       <Services/>
       <Projects/>
-   
       <Contact />
       <Footer />
     </>
