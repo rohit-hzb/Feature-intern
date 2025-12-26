@@ -1,0 +1,16 @@
+:root {
+  --accent: #22c55e;
+  --text-main: #111;
+  --text-muted: #666;
+  --border: rgba(0, 0, 0, 0.1);
+  --card-bg: rgba(255, 255, 255, 0.7);
+  --footer-bg: rgba(255, 255, 255, 0.9);
+}
+
+body.dark {
+  --text-main: #f5f5f5;
+  --text-muted: #aaa;
+  --border: rgba(255, 255, 255, 0.15);
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --footer-bg: #0f172a;
+}
